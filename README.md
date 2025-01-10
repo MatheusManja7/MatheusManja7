@@ -1,16 +1,33 @@
-## Hi there 👋
+## Códigos, café e café... ☕ e mais código!
 
-<!--
-**MatheusManja7/MatheusManja7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Olá! Eu sou o Matheus Manja👋🏽
 
-Here are some ideas to get you started:
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)]()
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MatheusManja7)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/matheus_manja7/?next=%2F)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-manja-47844b335/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+![Matheus Manja GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusManja7&show_icons=true&theme=tokyonight)
+
+## Tecnologias que uso no meu Dia
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" /> 
+    <img align="center" alt="css3" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" /> 
+    <img align="center" alt="javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> 
+    <img align="center" alt="php" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
+    <img align="center" alt="mysql" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" /> 
+    <img align="center" alt="office" src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white" /> 
+</div><br/>
+
+### Sou apaixonado por tecnologia e em constante aprendizado, estou mergulhando no mundo da programação. Atualmente, estou explorando diversas linguagens e frameworks, buscando sempre melhorar minhas habilidades e me manter atualizado com as últimas tendências do mercado.
+
+Acredito que a tecnologia tem o poder de transformar o mundo e, por isso, estou sempre em busca de novos desafios e oportunidades para aplicar meus conhecimentos em projetos que realmente façam a diferença.
+
+Se você é entusiasta da tecnologia ou está em busca de colaboração, fique à vontade para explorar meus repositórios e contribuir com ideias ou sugestões!
+
+🚀 Vamos codar juntos!
