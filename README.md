@@ -10,7 +10,6 @@
 
 
 ![Matheus Manja GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusManja7&show_icons=true&theme=tokyonight)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusManja7&layout=compact)
 
 ## Tecnologias que eu uso no meu Dia
