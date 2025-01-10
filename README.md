@@ -1,4 +1,3 @@
-## Códigos, café e café... ☕ e mais código!
 
 ### Olá! Eu sou o Matheus Manja👋🏽
 
@@ -12,7 +11,9 @@
 
 ![Matheus Manja GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusManja7&show_icons=true&theme=tokyonight)
 
-## Tecnologias que uso no meu Dia
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
+
+## Tecnologias que eu uso no meu Dia
 
 <div style="display: inline_block"><br/>
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> 
